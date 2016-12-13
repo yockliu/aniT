@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "布丁"
+description: 最萌萌哒小布丁. 
+date:   2016-12-13 22:13:47 +08
+categories: 布丁相册
+img: buding_2.JPG
+categories: [one, two]
+color: 1976D2
+author: Yock
+---
