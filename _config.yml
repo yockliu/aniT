@@ -5,7 +5,7 @@ url: http://yockl.coding.me/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/aniT"
+baseurl: "/"
 
 
 sass:
